@@ -8,6 +8,8 @@ This chapter is divided into two parts: how to search without plugins and how to
 
 To open a file in Vim, you can use `:edit`.
 
+
+
 ```
 :edit file.txt
 ```
